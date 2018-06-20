@@ -16,6 +16,10 @@
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
+        <activity android:name=".FileListActivity">
+        </activity>
+        <activity android:name=".UserListActivity">
+        </activity>
     </application>
 
 </manifest>
